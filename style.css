@@ -1,0 +1,41 @@
+body {
+  padding: 0;
+  margin: 0;
+  color: white;
+  overflow: hidden;
+}
+.page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 0 4rem;
+}
+.page a {
+  padding: 8px 20px;
+  background-color: black;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+}
+#page-1 {
+  background: url(https://a.cdn-hotels.com/gdcs/production9/d1224/7206173c-9958-4c33-aa09-bbfd414b99ac.jpg)
+    no-repeat center center/cover;
+}
+#page-2 {
+  background: url(https://images.ctfassets.net/uwf0n1j71a7j/7dCP8Yviug2Z3WRYIXKatz/c0a23390129c1dcf72c7e17569b35975/best-time-to-visit-south-korea.jpg)
+    no-repeat center center/cover;
+}
+#page-3 {
+  background: url(https://upload.wikimedia.org/wikipedia/commons/3/35/%D0%9E%D0%B7%D0%B5%D1%80%D0%BE_%D0%94%D1%83%D1%81-%D0%A5%D0%BE%D0%BB%D1%8C_%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC._%D0%A2%D0%B5%D1%81-%D0%A5%D0%B5%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B6%D1%83%D1%83%D0%BD.jpg)
+    no-repeat center center/cover;
+}
+#page-4 {
+  background: url(https://dreammongolia.com/mt-content/uploads/2016/10/dalaj-eezh.jpg)
+    no-repeat center center/cover;
+}
+#page-5 {
+  background: url(https://media.rezgo.com/29771/190000/229259.jpg) no-repeat
+    center center/cover;
+}
